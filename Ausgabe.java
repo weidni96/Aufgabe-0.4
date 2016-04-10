@@ -1,3 +1,4 @@
+
 /**
  * Beinhaltet alles Textausgaben des Programmes die auf jeden 
  * Fall ausgeführt werden (keine Ausnahmentexte)
